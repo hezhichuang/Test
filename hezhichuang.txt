@@ -4,7 +4,6 @@ yes i am very sure
 a new add line
 a new add two line
 a new add three line
-a new add five line
-a new add five line
+a new add four line
 a new add five line
 a issue is added to branch issue1
